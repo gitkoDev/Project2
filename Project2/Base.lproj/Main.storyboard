@@ -82,7 +82,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nde-Go-hTd" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-723" y="101"/>
+            <point key="canvasLocation" x="-691" y="106"/>
         </scene>
     </scenes>
     <resources>
